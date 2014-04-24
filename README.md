@@ -2,7 +2,7 @@ PyCrawl
 =======
 
  Run as 
-	python pycrawl.py url
+	`python pycrawl.py url`
 
  
  
